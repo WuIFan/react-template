@@ -16,6 +16,13 @@ npx tailwindcss init -p
 add tailwind.css in code base
 config tailwind.config.js
 
+install daisyui
+
+```shell
+npm i -D daisyui@latest
+```
+config daisyui as plugin in tailwind.config.js
+
 add my favorite tools
 
 ```shell
