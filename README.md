@@ -26,5 +26,7 @@ config daisyui as plugin in tailwind.config.js
 add my favorite tools
 
 ```shell
-
+npm i -D prettier
+npm i react-helmet
+npm i react-router
 ```
